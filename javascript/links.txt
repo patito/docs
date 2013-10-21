@@ -6,6 +6,7 @@
 - Documentation:
 - https://github.com/jsdoc3/jsdoc
 - http://usejsdoc.org/
+- http://yui.github.io/yuidoc/syntax/index.html
 
 - Patterns:
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/

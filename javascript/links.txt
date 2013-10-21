@@ -10,6 +10,11 @@
 - Patterns:
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
--Tests
+- Tests
 - http://qunitjs.com/
 - http://visionmedia.github.io/mocha/
+
+- V8 design
+- https://developers.google.com/v8/design
+- http://websrv0a.sdu.dk/ups/SCM/slides/lecture_03_mads_ager.pdf
+

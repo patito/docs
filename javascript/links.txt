@@ -18,3 +18,5 @@
 - https://developers.google.com/v8/design
 - http://websrv0a.sdu.dk/ups/SCM/slides/lecture_03_mads_ager.pdf
 
+- JavaScript Internals
+- http://www.scribd.com/doc/2263478/Javascript-Internals

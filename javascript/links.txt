@@ -1,0 +1,15 @@
+- Memory management:
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+- http://www.ibm.com/developerworks/web/library/wa-memleak/
+- https://wiki.mozilla.org/Performance:Leak_Tools
+
+- Documentation:
+- https://github.com/jsdoc3/jsdoc
+- http://usejsdoc.org/
+
+- Patterns:
+- http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+-Tests
+- http://qunitjs.com/
+- http://visionmedia.github.io/mocha/

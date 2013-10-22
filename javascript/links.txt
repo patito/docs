@@ -2,6 +2,8 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
 - http://www.ibm.com/developerworks/web/library/wa-memleak/
 - https://wiki.mozilla.org/Performance:Leak_Tools
+- http://jsperf.com/prototypal-performance/12
+- http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/
 
 - Documentation:
 - https://github.com/jsdoc3/jsdoc
